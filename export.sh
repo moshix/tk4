@@ -4,7 +4,7 @@
 # extract wherever, copy all files in <zipfile>/dasd/* to a folder
 # copy this script to that folder
 # run this script
-# requires https://github.com/SDL-Hercules-390/hyperion (git clone then ./configure and make)
+# requires https://github.com/SDL-Hercules-390/hyperion (git clone, then ./autogen.sh, then ./configure and make)
 # will make the folder ../extract to store dataset contents
 
 
